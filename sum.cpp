@@ -12,5 +12,6 @@ int main(){
     cin>>n>>m;
     int c=sum(n,m);
     cout<<"sum of m and n = "<<c<<" ";
+    cout<<"thank you";
     return 0;
 }
